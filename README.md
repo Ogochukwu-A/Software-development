@@ -2,7 +2,7 @@
 The German Federal Ministery of Health is planning to introduce a digital vaccination certificate. The aim is to develop an app for interoperable and standardised proof of vaccination for medical purposes. Identify a possible application solution. Code the basic functionalities of this software application in python, like data processing. Please also be aware of using classes. 
 
 ## Images
-![Here is a display of the program flowchart] (https://github.com/Ogochukwu-A/Software-development/blob/master/img/flowchart.PNG)
+![Here is a display of the program flowchart] (img/flowchart.PNG)
 
 ![An overview of the vaccination certification] ()
 - lecture by Thomas Spittler
