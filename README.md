@@ -4,5 +4,5 @@ The German Federal Ministery of Health is planning to introduce a digital vaccin
 ## Images
 ![Here is a display of the program flowchart](img/flowchart.PNG)
 
-![An overview of the vaccination certification] ()
+![An overview of the vaccination certification](img/vacc%20cert.PNG)
 - lecture by Thomas Spittler
